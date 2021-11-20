@@ -1,0 +1,19 @@
+TY - JOUR 
+        
+T1 - A web-based wireless sensor system to measure carbon monoxide concentration 
+        
+AU - 57193913176;57195936566;57194034870;57195942573; 
+        
+JO - International Conference on Electrical Engineering, Computer Science and Informatics (EECSI) 
+        
+VL - 2017 
+        
+IS - 0 
+        
+PY - 2017 
+        
+Ur - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046441011&doi=10.1109%2fEECSI.2017.8239174&partnerID=40&md5=c5c5e5fbbdfff0c71bcc606d9c11248b
+        
+AB - Carbon monoxide (CO) concentration reflects the environmental quality of an area. An instrument that measures CO level is very useful for mitigation of effects caused by it due to industrial development. The inherent problem of CO measurement is wide distribution of this gas that continuous measurement is difficult to do. This research proposes a CO measurement system using wireless sensor. The system node developed includes a CO sensor, a data acquisition system, and a communication system from remote terminal unit (RTU) to a web server. The proposed model is a communication between a database saved with RTU microprocessor and a database saved in a web server. The web server comes with a program that inputs data into the web server database and displays them on a dashboard. System testing reveal an average error of 7.73 ppm compared to available standard instruments, while the Mean Absolute Percentage Error (MAPE) is 2.81%. Testing on database communication showed a transmission rate from RTU to web server of 10.6 second on average and it was also understood that it changes from time to time. Â© 2017 IEEE.
+        
+DO - 10.1109/EECSI.2017.8239174
